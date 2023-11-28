@@ -12,7 +12,7 @@ INSTRUCTIONS FOR SQL FILES
 
 INSTRUCTIONS TO RUN APP
 * Firstly install the database as the instruction above for SQL files
-* Run server "npm start"
+* Install files with "npm install" and run server with "npm start"
 * Finally run the client app "npm start"
 * When it runs, firstly registration is mandatory to share product.
 * Click sign up button and fill the form with name, e-mail and password
