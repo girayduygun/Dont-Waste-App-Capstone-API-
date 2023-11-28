@@ -3,7 +3,7 @@
 INSTRUCTIONS FOR SQL FILES
 * Open MySql workbench
 * Select and open "File > Open SQL script"
-* Run "create-db-template"
+* Run "create-db-template" in SQL files
 * It will be appear when refresh 
 * Select food_db and run "food_db.sql" 
 * To see tables, click-right "food_db" and select "refresh all"
